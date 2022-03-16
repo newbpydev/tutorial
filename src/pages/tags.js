@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../components/Layout"
 
-export default function NotFound() {
+export default function Tags() {
   return (
     <Layout>
-      <h1>404: Page Not Found</h1>
+      <h1>Tags</h1>
     </Layout>
   )
 }
